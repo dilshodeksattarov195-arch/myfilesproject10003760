@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdelete",
+        "uuid": 32426240,
+        "checksum": "mle8ko"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
